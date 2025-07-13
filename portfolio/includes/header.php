@@ -13,7 +13,7 @@
   <header class="site-header">
     <div class="logo-section">
       <div class="logo-circle">B</div>
-      <span class="site-name">Mohamemd Salim</span> <!-- Change par ton nom -->
+      <span class="site-name">Mohammed Salim</span> <!-- Change par ton nom -->
     </div>
     <nav class="main-nav">
       <a href="index.php">Home</a>
